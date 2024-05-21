@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Joshua",
+    "class": "Myrmidon",
+    "strength": 8,
+    "skill": 14,
+    "speed": 14,
+    "luck": 7,
+    "defense": 5,
+    "resistance": 2,
+    "move": 5,
+    "constitution": 8
+  }
+]

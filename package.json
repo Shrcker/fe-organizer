@@ -1,0 +1,30 @@
+{
+  "name": "fire-emblem-unit-organizer",
+  "version": "0.0.1",
+  "description": "A simple tool for organizing your armies in Fire Emblem.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "fire",
+    "emblem",
+    "organizer"
+  ],
+  "author": "Shrcker",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "express-session": "^1.18.0",
+    "mysql2": "^3.9.7",
+    "sequelize": "^6.37.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.3.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.2.5"
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Killing Edge",
+    "class": "Sword",
+    "rank": "C",
+    "range": 1,
+    "weight": 7,
+    "might": 9,
+    "hit": 75,
+    "crit": 30,
+    "description": "Improves critical hit rate.",
+    "unit_id": 1
+  }
+]
